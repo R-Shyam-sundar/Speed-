@@ -1,7 +1,7 @@
 '''
 	Typing speed test in python
 	Python GUI Programming
-	Shyam Sundar
+	R Shyam Sundar
 '''
 
 from essential_generators import DocumentGenerator
