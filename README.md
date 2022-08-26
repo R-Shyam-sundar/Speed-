@@ -1,7 +1,7 @@
 # Speed Typing Test in Python
 ## Installation
 ### Prerequisite
-Make sure you have the lastest version of python
+Make sure to have the lastest version of python3
 ```sh
 $ sudo apt-get install software-properties-common
 $ sudo add-apt-repository ppa:deadsnakes/ppa
