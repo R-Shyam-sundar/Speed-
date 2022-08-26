@@ -9,6 +9,12 @@ $ sudo apt-get update
 $ sudo apt-get install python3.8
 ```
 
+### Install required libraries 
+```sh
+sudo apt install python3-pip
+pip install essential-generators
+```
+
 ### Download
 ```
 git clone https://github.com/R-Shyam-sundar/Speed-Typing-Test-Python.git
